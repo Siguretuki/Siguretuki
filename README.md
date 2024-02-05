@@ -2,9 +2,10 @@
 
 <h3>twitterはSiguleneなのにGithubはSiguretuki、なぁぜなぁぜ？表記ゆれごめぇんね（<-これ嫌い）</h3>
 
+<h3>言語とつーる</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,nuxtjs,vue,arduino,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,nuxtjs,vue,arduino,raspberrypi,vscode" />
   </a>
 </p>
 
