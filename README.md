@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋I'm Siguretuki  ^^) _旦~~</h1>
+<h1 align="center"> こんにちは世界。 👋私 is Siguretuki  ^^) _旦~~</h1>
 
 <!--
 **Siguretuki/Siguretuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
