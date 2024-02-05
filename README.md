@@ -1,6 +1,13 @@
 <h1 align="center"> こんにちは世界。 👋私 am Siguretuki. ^^) _旦~~</h1>
 
-<h3>twitterはSiguleneなのにGithubはSiguretuki。なぁぜなぁぜ？表記ゆれごめぇんね（<-これ嫌い）</h3>
+<h3>twitterはSiguleneなのにGithubはSiguretuki、なぁぜなぁぜ？表記ゆれごめぇんね（<-これ嫌い）</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,Django,html,css,js,nuxtjs,vue" />
+  </a>
+</p>
+
 <!--
 **Siguretuki/Siguretuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
