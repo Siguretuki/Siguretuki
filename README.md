@@ -1,7 +1,7 @@
 <h1 align="center"> こんにちは世界。 👋私 am Siguretuki. ^^) _旦~~</h1>
 
 <h3>twitterはSiguleneなのにGithubはSiguretuki、なぁぜなぁぜ？表記ゆれごめぇんね（<-これ嫌い）</h3>
-
+<P align="center">ぴよぴよエンジニアですわ。</P>
 <h3 align="center">言語とつーる</h3>
 <p align="center">
   <a href="https://skillicons.dev">
