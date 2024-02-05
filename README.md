@@ -2,6 +2,7 @@
 
 <h3>twitterはSiguleneなのにGithubはSiguretuki、なぁぜなぁぜ？表記ゆれごめぇんね（<-これ嫌い）</h3>
 <P align="center">ぴよぴよエンジニアですわ。想像力はそこそこ豊かだと思いますの。</P>
+<P align="center">頭の中を形にして出力するのってとっても難しいですわ。だからこそ興味が惹かれますの。</P>
 <h3 align="center">言語とつーる</h3>
 <p align="center">
   <a href="https://skillicons.dev">
