@@ -1,5 +1,6 @@
-<h1 align="center"> こんにちは世界。 👋私 is Siguretuki  ^^) _旦~~</h1>
+<h1 align="center"> こんにちは世界。 👋私 am Siguretuki. ^^) _旦~~</h1>
 
+<h3>twitterはSiguleneなのにGithubはSiguretuki。なぁぜなぁぜ？表記ゆれごめぇんね（<-これ嫌い）</h3>
 <!--
 **Siguretuki/Siguretuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
