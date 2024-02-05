@@ -10,7 +10,7 @@
 </p>
 
 - 👯 I’m collaborating on [use-bootstrap](https://github.com/simplise/use-bootstrap)
-- ⚡ Connect with me [twitter](https://twitter.com/selenekunn) or [gmail](siguretukikohane@gmail.com)
+- ⚡ Connect with me [twitter](https://twitter.com/selenekunn) or <a href="mailto:siguretukikohane@gmail.com">gmail</a>
 
 <!--
 **Siguretuki/Siguretuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
