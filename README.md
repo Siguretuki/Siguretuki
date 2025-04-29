@@ -8,7 +8,7 @@
     <img src="https://skillicons.dev/icons?i=python,html,css,js,nuxtjs,vue,ts,react,c,c#,dart,java,opencv,bootstrap,django," />
   </a>
 </p>
-<h3 align="center">開発環境</h3>
+<h3 align="center">触れたことのある開発環境</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,arduino,raspberrypi,vscode,git,aws,azure,dotnet,electron,flutter,eclipse,docker" />
