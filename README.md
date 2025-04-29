@@ -13,6 +13,12 @@
     <img src="https://skillicons.dev/icons?i=windows,linux,arduino,raspberrypi,vscode,git,aws,azure,dotnet,electron,flutter,eclipse,docker" />
   </a>
 </p>
+<h3 align="center">コミュニケーションツール</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,discord" />
+  </a>
+</p>
 
 - 👯 I’m collaborating on [use-bootstrap](https://github.com/simplise/use-bootstrap)
 - ⚡ Connect with me [twitter](https://twitter.com/selenekunn) or <a href="mailto:siguretukikohane@gmail.com">gmail</a>
