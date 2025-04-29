@@ -1,10 +1,10 @@
 <h1 align="center"> こんにちは世界。 👋私は Siguretuki. ^^) _旦~~</h1>
 
 <P align="center">ぴよぴよエンジニアです</P>
-<h3 align="center">言語とつーる</h3>
+<h3 align="center">これまでに触れてきた言語とツール</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,nuxtjs,vue,arduino,raspberrypi,vscode,fusion360" />
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,nuxtjs,vue,ts,react,arduino,raspberrypi,vscode,git,aws,azure,dotnet,electron,c,c#,flutter,eclipse,linux,opencv,netlify,notion,discord" />
   </a>
 </p>
 
