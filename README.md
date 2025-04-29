@@ -4,7 +4,7 @@
 <h3 align="center">これまでに触れてきた言語とツール</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,nuxtjs,vue,ts,react,c,c#,dart,java,opencv," />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,nuxtjs,vue,ts,react,c,c#,dart,java,opencv,bootstrap,django," />
   </a>
 </p>
 <h3 align="center">開発環境</h3>
