@@ -4,7 +4,7 @@
 <h3 align="center">言語とつーる</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,nuxtjs,vue,arduino,raspberrypi,vscode,fusion" />
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,nuxtjs,vue,arduino,raspberrypi,vscode,fusion360" />
   </a>
 </p>
 
