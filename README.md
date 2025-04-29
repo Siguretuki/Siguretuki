@@ -1,6 +1,7 @@
-<h1 align="center"> こんにちは世界。 👋私は Siguretuki. ^^) _旦~~</h1>
+<h1 align="center">はじめまして、時雨月(しぐれつき)です。</h1>
 
 <P align="center">ぴよぴよエンジニアです</P>
+
 <h3 align="center">これまでに触れてきた言語とツール</h3>
 <p align="center">
   <a href="https://skillicons.dev">
